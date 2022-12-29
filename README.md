@@ -7,10 +7,10 @@ Languages learned :
     - Python  
     - C  
     - C++  
-  Used :
-    - OCaml
-    - Ruby
-    - C#
-Learning :
-  - Python
-  - C 
+  Used :  
+    - OCaml  
+    - Ruby  
+    - C#  
+Learning :  
+  - Python  
+  - C  
