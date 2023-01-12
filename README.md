@@ -12,5 +12,5 @@ Languages learned :
     - Ruby  
     - C#  
 Learning :  
-  - Python  
-  - C  
+    - Python  
+    - C  
