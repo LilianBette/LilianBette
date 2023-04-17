@@ -11,7 +11,6 @@ As a student at the University of Montpellier, I use most of my free time to do 
 Languages learned :  
   Currently :  
     - Python  
-    - C  
     - C++  
   Used :  
     - OCaml  
@@ -19,4 +18,4 @@ Languages learned :
     - C#  
 Learning :  
     - Python  
-    - C  
+    - C
